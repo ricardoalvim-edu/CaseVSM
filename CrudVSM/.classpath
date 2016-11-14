@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/MySQL JDBC Driver"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/aopalliance-repackaged-2.5.0-b05.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/asm-debug-all-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/hk2-api-2.5.0-b05.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/hk2-locator-2.5.0-b05.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/hk2-utils-2.5.0-b05.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/javax.inject-2.5.0-b05.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-client.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-common.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-guava-2.23.2.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/jersey-server.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/treinamento_java/libs/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
